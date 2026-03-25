@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "641996344203",
+    "project_id": "aybook-a69fd",
+    "storage_bucket": "aybook-a69fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641996344203:android:0317c649b62c67b4e67d8e",
+        "android_client_info": {
+          "package_name": "com.ayvan.booktracker.book_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmgNFgSr31TrG139tzDSHjg9AK6AtScM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641996344203:android:e7d98a3102f417dee67d8e",
+        "android_client_info": {
+          "package_name": "com.example.aybook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmgNFgSr31TrG139tzDSHjg9AK6AtScM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
